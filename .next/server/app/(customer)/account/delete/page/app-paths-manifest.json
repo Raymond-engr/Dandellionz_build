@@ -1,0 +1,3 @@
+{
+  "/(customer)/account/delete/page": "app/(customer)/account/delete/page.js"
+}

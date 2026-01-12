@@ -1,0 +1,18 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/admin/layout,_N_T_/admin/account/layout,_N_T_/admin/account/settlements/layout,_N_T_/admin/account/settlements/payout/layout,_N_T_/admin/account/settlements/payout/page,_N_T_/admin/account/settlements/payout"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/admin/account/settlements/payout/__PAGE__",
+    "/admin/account/settlements/payout",
+    "/admin/account/settlements",
+    "/admin/account",
+    "/admin",
+    "/_index",
+    "/_head"
+  ]
+}

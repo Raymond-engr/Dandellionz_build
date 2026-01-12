@@ -1,0 +1,18 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/admin/layout,_N_T_/admin/account/layout,_N_T_/admin/account/notifications/layout,_N_T_/admin/account/notifications/create/layout,_N_T_/admin/account/notifications/create/page,_N_T_/admin/account/notifications/create"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/admin/account/notifications/create/__PAGE__",
+    "/admin/account/notifications/create",
+    "/admin/account/notifications",
+    "/admin/account",
+    "/admin",
+    "/_index",
+    "/_head"
+  ]
+}

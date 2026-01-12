@@ -1,0 +1,371 @@
+{
+  "app": {
+    "[project]/Documents/Dandelionz_App/app/(auth)/register/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/(auth)/registration-success/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/(customer)/account/addresses/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/(customer)/account/change-password/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/(customer)/account/delete/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/(customer)/account/invite-friends/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/(customer)/account/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/(customer)/account/payment/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/(customer)/account/profile/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/(customer)/cart/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/(customer)/checkout/installments/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/(customer)/checkout/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/(customer)/checkout/payment/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/(customer)/checkout/shipping/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/(customer)/checkout/success/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/(customer)/faqs/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/(customer)/order-tracking/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/(customer)/orders/[id]/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/(customer)/orders/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/(customer)/product/[id]/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/(customer)/receipt/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/(customer)/terms/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/(customer)/wishlist/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/_not-found/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/admin/account/analytics/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/admin/account/change-password/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/admin/account/faqs/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/admin/account/notifications/create/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/admin/account/notifications/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/admin/account/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/admin/account/payment-settings/change-pin/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/admin/account/payment-settings/forgot-pin/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/admin/account/payment-settings/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/admin/account/payment-settings/store-payment/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/admin/account/profile/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/admin/account/profile/photo/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/admin/account/settlements/disputes/[id]/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/admin/account/settlements/disputes/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/admin/account/settlements/history/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/admin/account/settlements/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/admin/account/settlements/payout/[id]/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/admin/account/settlements/payout/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/admin/account/settlements/summary/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/admin/account/settlements/vendor/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/admin/account/terms/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/admin/account/withdrawal/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/admin/account/withdrawal/pin/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/admin/account/withdrawal/receipt/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/admin/account/withdrawal/success/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/admin/account/withdrawal/summary/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/admin/account/withdrawal/withdraw/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/admin/orders/[id]/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/admin/orders/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/admin/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/admin/product/[id]/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/admin/product/category/[id]/edit/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/admin/product/category/new/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/admin/product/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/admin/users/[id]/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/admin/users/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/admin/vendor/[id]/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/admin/vendor/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/contact/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/forgot-password/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/login/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/vendor/account/change-password/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/vendor/account/delete/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/vendor/account/faqs/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/vendor/account/notifications/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/vendor/account/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/vendor/account/payment-settings/change-pin/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/vendor/account/payment-settings/forgot-pin/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/vendor/account/payment-settings/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/vendor/account/payment-settings/store-payment/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/vendor/account/profile/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/vendor/account/profile/photo/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/vendor/account/terms/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/vendor/orders/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/vendor/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/vendor/product/[id]/edit/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/vendor/product/new/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/vendor/product/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/vendor/wallet/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/vendor/wallet/pin/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/vendor/wallet/receipt/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/vendor/wallet/success/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/vendor/wallet/summary/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/vendor/wallet/withdraw/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/verify-email/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Documents/Dandelionz_App/app/verify-notice/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}

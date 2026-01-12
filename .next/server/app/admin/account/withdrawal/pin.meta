@@ -1,0 +1,18 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/admin/layout,_N_T_/admin/account/layout,_N_T_/admin/account/withdrawal/layout,_N_T_/admin/account/withdrawal/pin/layout,_N_T_/admin/account/withdrawal/pin/page,_N_T_/admin/account/withdrawal/pin"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/admin/account/withdrawal/pin/__PAGE__",
+    "/admin/account/withdrawal/pin",
+    "/admin/account/withdrawal",
+    "/admin/account",
+    "/admin",
+    "/_index",
+    "/_head"
+  ]
+}

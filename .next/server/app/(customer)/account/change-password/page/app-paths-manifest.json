@@ -1,0 +1,3 @@
+{
+  "/(customer)/account/change-password/page": "app/(customer)/account/change-password/page.js"
+}

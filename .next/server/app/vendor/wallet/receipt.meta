@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/vendor/layout,_N_T_/vendor/wallet/layout,_N_T_/vendor/wallet/receipt/layout,_N_T_/vendor/wallet/receipt/page,_N_T_/vendor/wallet/receipt"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/vendor/wallet/receipt/__PAGE__",
+    "/vendor/wallet/receipt",
+    "/vendor/wallet",
+    "/vendor",
+    "/_index",
+    "/_head"
+  ]
+}

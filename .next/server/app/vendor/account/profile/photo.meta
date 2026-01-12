@@ -1,0 +1,18 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/vendor/layout,_N_T_/vendor/account/layout,_N_T_/vendor/account/profile/layout,_N_T_/vendor/account/profile/photo/layout,_N_T_/vendor/account/profile/photo/page,_N_T_/vendor/account/profile/photo"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/vendor/account/profile/photo/__PAGE__",
+    "/vendor/account/profile/photo",
+    "/vendor/account/profile",
+    "/vendor/account",
+    "/vendor",
+    "/_index",
+    "/_head"
+  ]
+}
